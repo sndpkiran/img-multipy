@@ -1,43 +1,35 @@
 {
 	"offsets": [{
-		"sign": "",
-		"x_offset": 100,
-		"y_offset": 100
+		"sign": "a.png",
+		"x_offset": 855,
+		"y_offset": 432
 	},{
-		"sign": "",
-		"x_offset": 100,
-		"y_offset": 100
+		"sign": "b.png",
+		"x_offset": 459,
+		"y_offset": 188
 	},{
-		"sign": "",
-		"x_offset": 100,
-		"y_offset": 100
+		"sign": "c.png",
+		"x_offset": 605,
+		"y_offset": 407
 	},{
-		"sign": "",
-		"x_offset": 100,
-		"y_offset": 100
+		"sign": "d.png",
+		"x_offset": 630,
+		"y_offset": 17
 	},{
-		"sign": "",
-		"x_offset": 100,
-		"y_offset": 100
+		"sign": "e.png",
+		"x_offset": 404,
+		"y_offset": 580
 	},{
-		"sign": "",
-		"x_offset": 100,
-		"y_offset": 100
+		"sign": "h.png",
+		"x_offset": 757,
+		"y_offset": 445
 	},{
-		"sign": "",
-		"x_offset": 100,
-		"y_offset": 100
+		"sign": "i.png",
+		"x_offset": 653,
+		"y_offset": 394
 	},{
-		"sign": "",
-		"x_offset": 100,
-		"y_offset": 100
-	},{
-		"sign": "",
-		"x_offset": 100,
-		"y_offset": 100
-	},{
-		"sign": "",
-		"x_offset": 100,
-		"y_offset": 100
-	},]
+		"sign": "o.png",
+		"x_offset": 755,
+		"y_offset": 375
+	}] 
 }
