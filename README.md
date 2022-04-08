@@ -1,4 +1,4 @@
-# img-multiply (Under development)
-Use the images present in resources/icons and resources/signs directories and generate all possible combination of these two sets of images by overlaying icons on signs.
+# img-multiply
+Uses openCV to generate a large set of images from 3 differents sets of images(gradients, signs, logos).
 
-Working on utilizing multiprocessing to reduce the time taken
+OpenSea: https://opensea.io/collection/xtrahand
